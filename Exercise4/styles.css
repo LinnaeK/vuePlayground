@@ -13,3 +13,50 @@
   background-color: gray;
   width: 50px !important;
 }
+
+.blue {
+  color: blue;
+}
+
+.large {
+  font-size: 80px;
+}
+
+.square{
+  width: 100px;
+  height: 100px;
+  background-color: aquamarine;
+}
+
+.circle{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: blueviolet;
+}
+
+.wide{
+  width: 100px;
+  height: 10px;
+  background-color: grey;
+}
+
+.thin{
+  width: 10px;
+  height: 100px;
+  background-color: grey;
+}
+
+
+.yellow {
+  background-color: yellow;
+}
+
+.grow {
+  padding: 20px;
+}
+
+.bar {
+  background-color: orange;
+  height: 10px;
+}
